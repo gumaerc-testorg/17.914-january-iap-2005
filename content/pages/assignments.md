@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 5c0e6124-b029-39db-32d8-63cdaab09ece
 ---
@@ -36,5 +37,5 @@ Also, discuss the effectiveness of the visualization techniques and suggest how 
 Discuss how visualization will play a role in your final game project, treating specific concerns such as the graphic user interface, the display of data concerning the virtual world of your game, etc. Make specific references to visualization / graphical techniques that would enhance the gaming experience and add value to the exploration and interaction of the gaming environment.  
 1-2 pages. Group work. Due Day 3.
 
-Final Project ([PDF]({{< baseurl >}}/resources/final_project))
+Final Project ({{< resource_link bdb0e58e-9836-a04f-952b-12d70e99af1e "PDF" >}})
 --------------------------------------------------------------
