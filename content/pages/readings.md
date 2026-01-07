@@ -23,13 +23,13 @@ Global Gaming and Global Agenda
 
 *Required*
 
-{{% resource_link "e3fde277-9eb7-4663-b8b9-182eb7395219" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bolter, Jay David, and Richard Grusin. *Remediation: Understanding New Media*. Cambridge, MA: MIT Press, 2000, pp. 88-103. ISBN: 9780262522793.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262522793) Bolter, Jay David, and Richard Grusin. *Remediation: Understanding New Media*. Cambridge, MA: MIT Press, 2000, pp. 88-103. ISBN: 9780262522793.
 
 Choucri, N., and C. Garcia. "Introduction & Overview." In *Global Agenda: Fostering Political Edutainment in the 21st century.*" Faculty Working Paper, Massachusetts Institute of Technology. May 2003.
 
 Hughes, Barry. *International Futures:* *Choices in the Creation of a New World Order*. Boulder, CO: Westview Press, 1993, pp. 1-45. ISBN: 9780813316512.
 
-{{% resource_link "1d83e226-1aa4-4fbc-b940-30b0ed39ded2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Manovich, Lev. *The Language of New Media*. Cambridge, MA: MIT Press, 2002, pp. 213-233, 244-259. ISBN: 9780262632553.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262632553) Manovich, Lev. *The Language of New Media*. Cambridge, MA: MIT Press, 2002, pp. 213-233, 244-259. ISBN: 9780262632553.
 
 Rieber, L. P. "Seriously Considering Play: Designing Interactive Learning Environments Based on the Blending of Microworlds, Simulations, and Games.*" Educational Technology Research and Development* 44, no. 2 (1996): 43-58.
 
@@ -41,7 +41,7 @@ Csikszentmihalyi, M. *Flow: The psychology of optimal experience*. New York, NY:
 
 Herz, Jessie Cameron. *Joystick Nation: How Videogames Ate Our Quarters, Won Our Hearts, and Rewired Our Minds*. Boston, MA: Little, Brown, and Co., 1997. ISBN: 9780316360074.
 
-{{% resource_link "8e05dbb1-90ad-4841-8ffb-c1d618e7f711" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jenkins, H., K. Squire, and P. Tan. "You Can't Bring That Game To School!: Designing Supercharged!" In *Design Research*. Edited by B. Laurel. Cambridge, MA: MIT Press, 2003. ISBN: 9780262122634.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122634) Jenkins, H., K. Squire, and P. Tan. "You Can't Bring That Game To School!: Designing Supercharged!" In *Design Research*. Edited by B. Laurel. Cambridge, MA: MIT Press, 2003. ISBN: 9780262122634.
 
 Papert, Seymour. *Mindstorms: Children, Computer and Powerful Ideas*. New York, NY: Basic Books, 1981. ISBN: 9780465046270.
 
@@ -63,13 +63,13 @@ Tufte, Edward. *The Visual Display of Quantitative Information.* Cheshire, CT: G
 
 *Recommended*
 
-Koch, Andreas. "Linking Multi Agent Systems and GIS - Modeling And Simulating Spatial Interactions.*" Department of Geography RWTH Aachen*. (Forthcoming) ({{% resource_link "59e51abc-4a5b-4f40-96a9-85a9a7c4fe41" "PDF" %}})
+Koch, Andreas. "Linking Multi Agent Systems and GIS - Modeling And Simulating Spatial Interactions.*" Department of Geography RWTH Aachen*. (Forthcoming) ([PDF](http://www.rwth-aachen.de/geo/Ww/deutsch/MultiAgentsKoch.PDF))
 
 Bainbridge, William Sims. "International Network for Integrated Social Science.*" Social Science Computer Review* 17 (1999): 405-420.
 
 Rouse, Richard. *Computer Game Design: Theory and Practice*. Plano, TX: Wordware Publishing, 2001. ISBN:  9781556229121.
 
-{{% resource_link "77afd242-1961-4436-aa39-ed63d938fb15" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Salen, K., and Zimmerman, E. *Rules of Play: Game Design Fundamentals*. Cambridge, MA: MIT Press, 2003. ISBN: 9780262240451.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262240451) Salen, K., and Zimmerman, E. *Rules of Play: Game Design Fundamentals*. Cambridge, MA: MIT Press, 2003. ISBN: 9780262240451.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -81,7 +81,7 @@ Enhancing Global Agenda and Visualization Strategies: Exploring Problems in Int
 
 Castells, Manuel. *The Information Age: Economy, Society, and Culture.* Vol. 2, *The Power of Identity*. Malden, MA: Blackwell, 2004. ISBN: 9781405107136.
 
-{{% resource_link "35521743-c25a-43f6-be5c-b759e70b5b2e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Choucri, Nazli, ed. *Global Accord: Environmental Challenges and International Responses*. Cambridge, MA: MIT Press, 1995. ISBN: 9780262531344.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531344) Choucri, Nazli, ed. *Global Accord: Environmental Challenges and International Responses*. Cambridge, MA: MIT Press, 1995. ISBN: 9780262531344.
 
 "Geographic Information Research at the Millennium." European Science Foundation Social Science Programme. Le Bischenberg, France: September 13-17, 1997.
 
